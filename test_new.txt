@@ -1,5 +1,3 @@
 Python git
 
 I have deleted the line from Remote repository.
-
-New line added
