@@ -1,0 +1,10 @@
+ERROR:root:'<' not supported between instances of 'str' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\amitk\AppData\Local\Temp\ipykernel_12640\3199541846.py", line 8, in <module>
+    if amt<50:
+TypeError: '<' not supported between instances of 'str' and 'int'
+ERROR:root:paisa 50 rupiya se kam hai
+Traceback (most recent call last):
+  File "C:\Users\amitk\AppData\Local\Temp\ipykernel_12640\3399505747.py", line 9, in <module>
+    raise fund_except ("paisa 50 rupiya se kam hai")
+fund_except: paisa 50 rupiya se kam hai
